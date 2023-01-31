@@ -5,3 +5,10 @@ print("Hello git!")
 for(i in 1:5){
   print(i)
 }
+
+#Add in another loop
+i <- 1
+while(i < 5){
+  print(i)
+  i = i + 1
+}
