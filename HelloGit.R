@@ -2,4 +2,6 @@
 print("Hello git!")
 
 #Add in some code that fails
-print(i in 5)
+for(i in 1:5){
+  print(i)
+}
