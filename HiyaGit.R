@@ -2,6 +2,7 @@
 print("Hello git!")
 
 #Add in some code that fails
+#Sonme useless comment
 for(i in 1:5){
   print(i)
 }
