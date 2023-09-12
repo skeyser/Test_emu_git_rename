@@ -8,3 +8,5 @@ Y <- solve(X)
 
 #Do some more work
 Z <- det(X)
+
+#Nothing
